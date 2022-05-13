@@ -4,7 +4,7 @@
 
 **IDE:** `Jupyter Notebook`
 
-## [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (сентябрь 2020 — февраль 2021):
+## [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (ноябрь 2021 — август 2022):
 
 :mortar_board:
 
