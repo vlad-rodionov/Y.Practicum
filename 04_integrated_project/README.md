@@ -1,4 +1,4 @@
-# [Предсказание коэффициента восстановления золота]()
+# [Предсказание коэффициента восстановления золота](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/04_integrated_project/04_project.ipynb)
 
 ## Описание проекта
 
@@ -75,7 +75,3 @@
 
 ## Используемые библиотеки и модули
 `scipy.stats` `matplotlib` `numpy` `pandas` `seaborn` `sklearn`
-
-## Контакты
-
-<br>2022
