@@ -1,4 +1,4 @@
-# [Модель для определения рыночной стоимости автомобиля]()
+# [Модель для определения рыночной стоимости автомобиля](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/06_numerical_methods/06_project.ipynb)
 
 
 ## Описание проекта
