@@ -1,4 +1,4 @@
-# [Защита данных клиентов страховой компании]()
+# [Защита данных клиентов страховой компании](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/05_linear_algebra/05_project.ipynb)
 
 ## Описание проекта
 
@@ -28,7 +28,3 @@
 
 ## Используемые библиотеки и модули
 `matplotlib` `numpy` `pandas`  `seaborn` `sklearn`
-
-## Контакты
-
-<br>2022
