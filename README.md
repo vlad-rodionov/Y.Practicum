@@ -18,3 +18,7 @@
 | [06 - численные методы](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/06_numerical_methods/06_project.ipynb) | Модель для определения рыночной стоимости автомобиля | Построить модель для определения рыночной стоимости автомобилей с пробегом | **`catboost`** **`lightgbm`** `math` `matplotlib` `numpy` `pandas` `seaborn` `sklearn` **`time`** |
 
 ## Контакты
+[VK](https://vk.com/id730817593)
+[Telegram](https://t.me/rodionov_v)
+
+
