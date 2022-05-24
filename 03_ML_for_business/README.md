@@ -1,4 +1,4 @@
-# [Выбор региона для разработки новых нефтяных скважин]()
+# [Выбор региона для разработки новых нефтяных скважин](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/03_ML_for_business/03_project.ipynb)
 
 ## Описание проекта
 
@@ -23,7 +23,3 @@
 
 ## Используемые библиотеки и модули
 `matplotlib` `numpy` `pandas` `seaborn` `sklearn`
-
-## Контакты
-
-<br> 2022
