@@ -1,4 +1,4 @@
-# [Определение выгодного тарифа для клиентов телеком компании]()
+# [Определение выгодного тарифа для клиентов телеком компании](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/01_introduction_to_ML/01_project.ipynb)
 
 ## Описание проекта
 
@@ -23,7 +23,3 @@
 
 ## Используемые библиотеки и модули
 `matplotlib` `numpy` `pandas` `sklearn`
-
-## Контакты
-
-<br>
