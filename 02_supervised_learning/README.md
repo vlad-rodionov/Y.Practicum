@@ -1,4 +1,4 @@
-# [Прогнозирование оттока клиентов банка]()
+# [Прогнозирование оттока клиентов банка](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/02_supervised_learning/02_project.ipynb)
 
 ## Описание проекта
 
@@ -34,7 +34,3 @@
 
 ## Используемые библиотеки и модули
 `matplotlib` `pandas` `sklearn` `statistics` `seaborn`
-
-## Контакты
-
-<br>2022
