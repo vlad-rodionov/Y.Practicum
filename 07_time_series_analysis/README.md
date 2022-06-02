@@ -1,4 +1,4 @@
-# [Прогнозирование заказов такси]()
+# [Прогнозирование заказов такси](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/07_time_series_analysis/07_project.ipynb)
 
 
 ## Описание проекта
