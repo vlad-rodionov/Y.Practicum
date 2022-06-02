@@ -23,10 +23,10 @@
 - Случайный лес
 - Бустинги
 - Ансамбль бустингов
-4  Настройка гиперпараметров
-5  Тестирование
-6  Итоги
+4. Настройка гиперпараметров
+5. Тестирование
+6. Итоги
 
 ## Используемые библиотеки и модули
-`catboost` `lightgbm` `numpy` `pandas` `seaborn` `sklearn` `time`
+`catboost` `lightgbm` `matplotlib` `numpy` `pandas` `sklearn` `scipy`
 
