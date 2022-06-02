@@ -65,9 +65,3 @@
 ## Используемые библиотеки и модули
 `catboost` `lightgbm` `numpy` `pandas` `seaborn` `sklearn` `time`
 
-## Контакты
-
-
-
-<br>2022
-
