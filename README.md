@@ -17,6 +17,7 @@
 | [05 - линейная алгебра](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/05_linear_algebra/05_project.ipynb) | Защита данных клиентов страховой компании | Разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию клиентов. При преобразовании данных качество моделей машинного обучения должно сохраниться | `seaborn` `numpy` `pandas` `sklearn` |
 | [06 - численные методы](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/06_numerical_methods/06_project.ipynb) | Модель для определения рыночной стоимости автомобиля | Построить модель для определения рыночной стоимости автомобилей с пробегом | **`catboost`** **`lightgbm`** `math` `matplotlib` `numpy` `pandas` `seaborn` `sklearn` **`time`** |
 | [07 - временные ряды](https://nbviewer.org/github/vlad-rodionov/Y.Practicum/blob/main/07_time_series_analysis/07_project.ipynb) | Прогнозирование заказов такси |Построить модель для определения числа заказов на ближайший час | `catboost` `lightgbm` `matplotlib` `numpy` `pandas` `sklearn` `scipy` |
+| [08 - машинное обучение для текстов]() | Классификация комментариев | Создать прототип модели для интернет-магазина, который будет искать токсичные комментарии и отправлять их на модерацию | `matplotlib` `nltk` `numpy` `pandas` `re` `sklearn` `wordcloud` |
 
 
 ## Контакты
