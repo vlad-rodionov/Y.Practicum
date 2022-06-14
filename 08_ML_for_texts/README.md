@@ -25,5 +25,5 @@
 	- LogisticRegression
 	- CatBoostClassifier
 	- LGBMClassifier
-  - SGDClassifier
+  	- SGDClassifier
 3. Выводы
